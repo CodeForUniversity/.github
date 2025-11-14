@@ -22,7 +22,7 @@ We believe in the power of teamwork and the idea that students can build meaning
 Anyone interested in contributing or joining the team can become a member!
 
 You can request to join through:
-- **Telegram Group:** (Ask in the group to be added)
+- **Telegram Group:** `https://t.me/ham-qdm`
 - **Email:** `amir.m.shahmoradi@gmail.com`
 
 Whether you're a beginner or experienced developer — you're welcome here.
